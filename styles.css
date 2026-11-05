@@ -42,11 +42,12 @@ everywhere it's used.
 
 :root {
     /* Colors */
-    --primary-color: #2c3e50;
-    --secondary-color: #34495e;
-    --accent-color: #2672ad;
-    --text-dark: #2c3e50;
-    --text-light: #5f6f73;
+   --primary-color: #0b2a2f;    
+    --secondary-color: #134048;  
+    --accent-color: #b6ff3b;     
+    --text-dark: #0b2a2f;
+    --text-light: #5a7a80;
+    
     /*
     The accent and light-text colors are chosen so that text stays readable:
     white on the accent color, and light text on the light background, both

@@ -354,7 +354,7 @@ header {
 }
 
 .card {
-    background-color: var(--spacing-md);
+    background-color: var(--light-gray);
     padding: var(--spacing-md);
     border-radius: var(--radius-md);
     box-shadow: var(--shadow-md);

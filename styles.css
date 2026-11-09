@@ -290,7 +290,7 @@ header {
 }
 
 .main-nav a:focus {
-    outline: 2px solid var(--white);
+    outline: 2px solid var(--light-gray);
     outline-offset: 2px;
 }
 
@@ -349,12 +349,12 @@ header {
 }
 
 .page-subtitle {
-    color: var(--text-light);
+    color: var(--primary-color);
     font-size: 1.125rem;
 }
 
 .card {
-    background-color: var(--white);
+    background-color: var(--primary-color);
     padding: var(--spacing-md);
     border-radius: var(--radius-md);
     box-shadow: var(--shadow-md);

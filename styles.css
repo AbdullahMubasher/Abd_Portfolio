@@ -235,7 +235,7 @@ is hidden, because clip hides it visually without removing it from the page.
 
 header {
     background-color: var(--primary-color);
-    color: var(--white);
+    color: var(--light-gray);
     padding: var(--spacing-sm) 0;
     position: sticky;
     top: 0;

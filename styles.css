@@ -278,7 +278,7 @@ header {
 }
 
 .main-nav a {
-    color: var(--white);
+    color: var(--secondary-color);
     text-decoration: none;
     padding: var(--spacing-xs) 0;
 }

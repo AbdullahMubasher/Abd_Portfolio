@@ -349,7 +349,7 @@ header {
 }
 
 .page-subtitle {
-    color: var(--primary-color);
+    color: var(--spacing-md);
     font-size: 1.125rem;
 }
 
